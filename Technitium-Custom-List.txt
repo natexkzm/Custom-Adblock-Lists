@@ -109,3 +109,4 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 analytics.adobe.io
+0.0.0.0 tpc.googlesyndication.com/
