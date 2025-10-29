@@ -1,5 +1,5 @@
 #Title: Custom Adblock List Using Various Adblock Test websites to see which URLs didn't get blocked.
-Syntax: Domains
+#Syntax: Domains
 #Number of Entries: 29
 0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 0.0.0.0 adblock.turtlecute.org
