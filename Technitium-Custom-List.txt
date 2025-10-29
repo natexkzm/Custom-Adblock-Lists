@@ -1,114 +1,32 @@
-# Testing Self Compiled List
-
-
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 googleadservices.com
-0.0.0.0 static.media.net
-0.0.0.0 media.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net/
-0.0.0.0 static.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 mediavisor.doubleclick.net
-0.0.0.0 media.fastclick.net/
-0.0.0.0 adtago.s3.amazonaws.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 hotjar.com
-0.0.0.0 static.hotjar.com
-0.0.0.0 hotjar-analytics.com
-0.0.0.0 mouseflow.com/
-0.0.0.0 freshmarketer.com/
-0.0.0.0 luckyorange.com
-0.0.0.0 cdn.luckyorange.com
-0.0.0.0 w1.luckyorange.com
-0.0.0.0 upload.luckyorange.net
-0.0.0.0 cs.luckyorange.net
-0.0.0.0 settings.luckyorange.net
-0.0.0.0 stats.wp.com
-0.0.0.0 pixel.facebook.com
-0.0.0.0 analytics.facebook.com
-0.0.0.0 ads.facebook.com
-0.0.0.0 an.facebook.com
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 advertising.twitter.com
-0.0.0.0 ads.linkedin.com
-0.0.0.0 analytics.pointdrive.linkedin.com
-0.0.0.0 ads.pinterest.com
-0.0.0.0 ads-dev.pinterest.com
-0.0.0.0 log.pinterest.com
-0.0.0.0 analytics.pinterest.com
-0.0.0.0 trk.pinterest.com
-0.0.0.0 widgets.pinterest.com
-0.0.0.0 ads.reddit.com
-0.0.0.0 d.reddit.com
-0.0.0.0 rereddit.com
-0.0.0.0 events.redditmedia.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 analytics.tiktok.com
-0.0.0.0 ads.tiktok.com
-0.0.0.0 analytics-sg.tiktok.com
-0.0.0.0 ads-sg.tiktok.com
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 appmetrica.yandex.com
-0.0.0.0 yandexadexchange.net
-0.0.0.0 analytics.mobile.yandex.net
-0.0.0.0 adsdk.yandex.ru
-0.0.0.0 coinhive.com
-0.0.0.0 crypto-loot.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 analytics.s3.amazonaws.com
-0.0.0.0 m.doubleclick.net
-0.0.0.0 mediavisor.doubleclick.net
-0.0.0.0 cristsslwidget.criteo.com
-0.0.0.0 dis.us.criteo.com
-0.0.0.0 dis.eu.criteo.com
-0.0.0.0 taboola.com
-0.0.0.0 cdn.taboola.com
-0.0.0.0 trc.taboola.com
-0.0.0.0 images.taboola.com
-0.0.0.0 outbrain.com
-0.0.0.0 log.outbrain.com
-0.0.0.0 bat.bing.com
-0.0.0.0 bingads.microsoft.com
-0.0.0.0 ads.mopub.com
-0.0.0.0 api.vungle.com
-0.0.0.0 appnexus.com
-0.0.0.0 indexexchange.com
-0.0.0.0 cdn.indexexchange.com
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 geo.yahoo.com
-0.0.0.0 udc.yahoo.com
-0.0.0.0 udcm.yahoo.com
-0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 log.fc.yahoo.com
-0.0.0.0 gemini.yahoo.com
-0.0.0.0 adtech.yahooinc.com
-0.0.0.0 auction.unityads.unity3d.com
-0.0.0.0 webview.unityads.unity3d.com
-0.0.0.0 config.unityads.unity3d.com
-0.0.0.0 adserver.unityads.unity3d.com
-0.0.0.0 metrika.yandex.ru
-0.0.0.0 adfox.yandex.ru
-0.0.0.0 adfstat.yandex.ru
-0.0.0.0 appmetrica.yandex.ru
-0.0.0.0 s.youtube.com
-0.0.0.0 redirector.googlevideo.com
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 analytics.google.com
-0.0.0.0 click.googleanalytics.com
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 analytics.adobe.io
-0.0.0.0 tpc.googlesyndication.com/
-0.0.0.0 elb.amazonaws.com
-0.0.0.0 o.pki.goog	
+#Title: Custom Adblock List Using Various Adblock Test websites to see which URLs didn't get blocked.
+Syntax: Domains
+#Number of Entries: 29
+9w2zed1szg.execute-api.us-east-1.amazonaws.com
+adblock.turtlecute.org
+adbox.banner_ads.adsbox
+ads.js
+airbrake.io
+alb.reddit.com
+api.raygun.com
+api.vk.com
+cdn.rollbar.com
+connect.facebook.net
+d3ward.github.io
+drupalmetrics.ppg.apple.com
+errorreporting.googleapis.com
+graph.facebook.com
+hm2wjuuus3.execute-api.ap-northeast-1.amazonaws.com
+j0v36abmdj.execute-api.us-east-1.amazonaws.com
+logging.googleapis.com
+m6ulblxep4.execute-api.us-east-1.amazonaws.com
+ngfts.lge.com
+pagead.js
+redirector.googlevideo.com
+s.youtube.com
+settings-win.data.microsoft.com
+siftscience.com
+trace.googleapis.com
+udc.yahoo.com
+widgets.pinterest.com
+wphlvzycf5.execute-api.eu-west-2.amazonaws.com
+youtubei.googleapis.com
