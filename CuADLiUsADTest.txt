@@ -1,4 +1,4 @@
-#Custom Adblock List Using Adblock to see which Urls didnt get blocked..
+#Custom Adblock List Using Various Adblock Test websites to see which URLs didn't get blocked..
 
 
 
