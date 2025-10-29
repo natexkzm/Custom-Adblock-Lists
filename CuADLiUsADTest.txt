@@ -27,3 +27,8 @@ m6ulblxep4.execute-api.us-east-1.amazonaws.com
 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
 alb.reddit.com
 drupalmetrics.ppg.apple.com
+connect.facebook.net
+graph.facebook.com
+api.vk.com
+ngfts.lge.com
+settings-win.data.microsoft.com
