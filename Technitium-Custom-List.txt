@@ -2,7 +2,6 @@
 Syntax: Domains
 #Number of Entries: 29
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
-adblock.turtlecute.org
 adbox.banner_ads.adsbox
 ads.js
 airbrake.io
