@@ -29,3 +29,5 @@ udc.yahoo.com
 widgets.pinterest.com
 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
 youtubei.googleapis.com
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
