@@ -21,12 +21,10 @@ m6ulblxep4.execute-api.us-east-1.amazonaws.com
 ngfts.lge.com
 pagead.js
 redirector.googlevideo.com
-s.youtube.com
 settings-win.data.microsoft.com
 siftscience.com
 trace.googleapis.com
 udc.yahoo.com
 widgets.pinterest.com
 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
-youtubei.googleapis.com
 siftscience.com
