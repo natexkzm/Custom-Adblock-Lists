@@ -29,3 +29,4 @@ widgets.pinterest.com
 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
 siftscience.com
 ptatexiwhe.com
+blunchagen.com
