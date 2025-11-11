@@ -37,3 +37,4 @@ informer.yandex.ru
 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
 jwilsgcumytof.store
 lustgoddesstrk-ru
+clickdir.xyz
