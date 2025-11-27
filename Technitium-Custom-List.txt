@@ -47,4 +47,6 @@ pixel.quora.com
 graph.instagram.com
 api.honeybadger.io
 fingerprintjs.com
+browser.sentry-cdn.com
+cdn.raygun.io
 
