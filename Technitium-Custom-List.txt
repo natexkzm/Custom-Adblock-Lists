@@ -1,6 +1,6 @@
 #Title: Added URLs that didn't get blocked
 #Syntax: Domains
-#Number of Entries: 48
+#Number of Entries: 71
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 adbox.banner_ads.adsbox
 ads.js
@@ -49,4 +49,28 @@ api.honeybadger.io
 fingerprintjs.com
 browser.sentry-cdn.com
 cdn.raygun.io
+bnc.lt
+2giga.link
+greatis.com
+tr.facebook.com
+i.instagram.com
+vk.com/rtrg
+xp.apple.com
+consent.cookiebot.com
+consentcdn.cookiebot.com
+cookiebot.com
+consent.trustarc.com
+sdk.privacy-center.org
+cdn.privacy-mgmt.com
+app.usercentrics.eu
+shareasale-analytics.com
+impact.com
+api.impact.com
+zenaps.com
+shareasale.com
+widget.intercom.io
+imasdk.googleapis.com
+dai.google.com
+ssl.p.jwpcdn.com
+
 
