@@ -72,5 +72,6 @@ widget.intercom.io
 imasdk.googleapis.com
 dai.google.com
 vk.com/rtrg
+mgstatics.xyz
 
 
