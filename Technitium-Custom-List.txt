@@ -71,5 +71,6 @@ shareasale.com
 widget.intercom.io
 imasdk.googleapis.com
 dai.google.com
+vk.com/rtrg
 
 
