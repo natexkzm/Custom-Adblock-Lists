@@ -12,7 +12,6 @@ cdn.rollbar.com
 connect.facebook.net
 d3ward.github.io
 drupalmetrics.ppg.apple.com
-errorreporting.googleapis.com
 graph.facebook.com
 hm2wjuuus3.execute-api.ap-northeast-1.amazonaws.com
 j0v36abmdj.execute-api.us-east-1.amazonaws.com
@@ -23,7 +22,6 @@ pagead.js
 redirector.googlevideo.com
 settings-win.data.microsoft.com
 siftscience.com
-trace.googleapis.com
 udc.yahoo.com
 widgets.pinterest.com
 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
