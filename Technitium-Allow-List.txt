@@ -13,3 +13,4 @@ html-load.com
 api.mangaupdates.com
 en.wikipedia.org
 www.ebay.com
+www.dnsleaktest.com
