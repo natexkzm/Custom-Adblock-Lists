@@ -17,3 +17,4 @@ www.dnsleaktest.com
 vb-audio.com
 walmart.com
 github.armbian.com
+wikipedia.org
