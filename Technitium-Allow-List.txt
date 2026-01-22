@@ -11,3 +11,4 @@ mangapark.com
 comix.to
 html-load.com
 api.mangaupdates.com
+en.wikipedia.org
