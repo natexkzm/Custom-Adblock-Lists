@@ -12,3 +12,4 @@ comix.to
 html-load.com
 api.mangaupdates.com
 en.wikipedia.org
+www.ebay.com
