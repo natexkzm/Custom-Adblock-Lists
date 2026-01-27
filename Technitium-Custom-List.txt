@@ -1,6 +1,6 @@
 #Title: Added URLs that didn't get blocked
 #Syntax: Domains
-#Number of Entries: 75
+#Number of Entries: 76
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 adbox.banner_ads.adsbox
 ads.js
@@ -76,3 +76,5 @@ aadiiecdmtbfpux.com
 lustpush.com
 get218498.host46x.cfd
 get681347.host46x.cfd
+vk.com/rtrg
+
