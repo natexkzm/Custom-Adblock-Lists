@@ -19,3 +19,4 @@ walmart.com
 github.armbian.com
 wikipedia.org
 packaged-media.redd.it
+aiv-delivery.net
