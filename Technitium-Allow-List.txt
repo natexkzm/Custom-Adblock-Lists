@@ -20,3 +20,5 @@ github.armbian.com
 wikipedia.org
 packaged-media.redd.it
 aiv-delivery.net
+hbomax.com
+max.com
